@@ -1,0 +1,3 @@
+# Ignore the app.js and package.json files
+app.js
+package.json
